@@ -12,3 +12,4 @@ This data consists of different parameteres as follows:
 8) Discount offered is the discount offered on the product by the e-ccommerce comapny and is designated in the percentile format.
 9) Weight of the product is the also one of the most important parameter when considered in the shipment business. This parameter in the above data is designated in the Grams format.
 10) The feedback by customer is provided whether the product has reached on time or not. It is designated in the Y/N format. But the data shows it as the 1 and 0 where 1 stands for Yes while 0 stands for No respectively.
+
